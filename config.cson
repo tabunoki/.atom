@@ -1,0 +1,13 @@
+"*":
+  editor:
+    invisibles: {}
+    fontFamily: "\"Migu 1M\""
+  core:
+    themes: [
+      "atom-dark-ui"
+      "atom-dark-syntax"
+    ]
+  "exception-reporting":
+    userId: "7a8122e4-77ac-7d81-545a-fd33d51e0c8c"
+  welcome:
+    showOnStartup: false
